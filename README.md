@@ -1,0 +1,2 @@
+# GlobalCode
+Initialization
